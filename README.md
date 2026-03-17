@@ -1,4 +1,9 @@
 # Unit_6-Intro_to_CSS
+<style>
+    h1 {
+        color: green;
+    }
+</style>
 
 
 HTML task: build out basic html mock up
@@ -13,8 +18,6 @@ HTML task: build out basic html mock up
 Code you will need to link html to css:
 
 <link rel="stylesheet" href="/styles.css">
-
-
 
 
 
